@@ -40,7 +40,7 @@ language_translation_tool/
 
 ### 1. Clone the Repository
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/JEEVITHA1406/Language-Translation-Tool
 ```
 
 ### 2. Navigate to the Project Folder
